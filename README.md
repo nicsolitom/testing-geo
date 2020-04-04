@@ -8,8 +8,7 @@ https://github.com/nchaulet/node-geocoder
 https://github.com/walling/geo-distance
 
 - Creatives Around: <br />
-https://github.com/nicsolitom/creatives-around-backend
-<br />
+https://github.com/nicsolitom/creatives-around-backend <br />
 https://github.com/mor-solomonov/creatives-around-frontend
 
 
