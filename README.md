@@ -1,14 +1,15 @@
 Testing out node-geocoder & geo-distance 
 for Creatives Around that is in development. 
 
-- node-geocoder:
+- node-geocoder: <br />
 https://github.com/nchaulet/node-geocoder
 
-- geo-distance:
+- geo-distance: <br />
 https://github.com/walling/geo-distance
 
-- Creatives Around: 
+- Creatives Around: <br />
 https://github.com/nicsolitom/creatives-around-backend
+<br />
 https://github.com/mor-solomonov/creatives-around-frontend
 
 
